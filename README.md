@@ -1,2 +1,2 @@
-# get-product-book-binance
-A Python script to get product book from Coinbase in every 5 minutes
+# get-product-book
+A Python script to get a product book from Binance in every 5 minutes
